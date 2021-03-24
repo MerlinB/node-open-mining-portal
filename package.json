@@ -46,7 +46,8 @@
         "request": "2.69.0",
         "nonce": "*",
         "bignum": "0.13.1",
-        "extend": "*"
+        "extend": "*",
+        "dotenv": "^8.2.0"
     },
     "engines": {
         "node": ">=0.10"
